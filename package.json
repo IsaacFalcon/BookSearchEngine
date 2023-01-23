@@ -17,5 +17,13 @@
   },
   "dependencies": {
     "apollo-server-express": "^2.15.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaacFalcon/BookSearchEngine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IsaacFalcon/BookSearchEngine/issues"
+  },
+  "homepage": "https://github.com/IsaacFalcon/BookSearchEngine#readme"
 }
