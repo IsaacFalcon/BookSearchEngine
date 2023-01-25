@@ -2,7 +2,7 @@
 
 ## Description
 
-- A Book Search Engine to make a profile and ssearch and save books.
+- A Book Search Engine to make a profile and search and save books.
 
 ## Description
 - WHEN I load the search engine THEN I am presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button.
@@ -31,9 +31,9 @@
 Instructions:
 - download through this github.
 - NPM install in folder and client folder
-- Open up terminal in client folder.
-- Run NPM run start.
-- You can also visit Heroku or Github Pages deployed app by the links below.
+- Open up terminal in root folder of app.
+- Run npm run develop.
+- You can also visit Heroku for deployed app by the link below.
 
 Link to App: https://calm-sierra-34156.herokuapp.com/
 
